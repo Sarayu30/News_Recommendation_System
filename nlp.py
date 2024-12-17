@@ -11,7 +11,7 @@ from googletrans import Translator
 nltk.download('stopwords')
 
 USER_DB_FILE = "user_credentials.json"
-API_KEY = "099be2f869f815f73396c122d23db420c8dc4b35cb25e50f048735683dbe8247"
+API_KEY = "  "
 
 GENRES = {
     "en": ["Technology", "Sports", "Politics", "Entertainment", "Health", "Business"],
