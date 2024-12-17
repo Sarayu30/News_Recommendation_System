@@ -15,8 +15,8 @@ The **News Recommendation System** aims to provide personalized news article rec
 - **🤖 Filtering Approaches**: 
   - Multiple filtering approaches are explored in the notebook:
     - **Content-Based Filtering**: Recommends articles similar to a given article using techniques like **TF-IDF** and **cosine similarity**.
-    - **Collaborative Filtering (Optional)**: Suggests articles based on user interaction or behavioral data.
-    - **Hybrid Approach (Optional)**: Combines content-based and collaborative filtering for improved accuracy.
+    - **Collaborative Filtering**: Suggests articles based on user interaction or behavioral data.
+    - **Hybrid Approach**: Combines content-based and collaborative filtering for improved accuracy.
 
 - **📊 Data Preprocessing**:
   - Handles cleaning, tokenization, and vectorization of the news data.
